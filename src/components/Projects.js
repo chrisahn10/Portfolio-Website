@@ -11,18 +11,18 @@ export const Projects = () => {
 
   const projects = [
     {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "Event Center",
+      description: "MERN",
       imgUrl: projImg1,
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "Trail Buddy",
+      description: "HandleBars.JS & SQL",
       imgUrl: projImg2,
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "Flavorful Finds",
+      description: "Javascript, HTML, CSS",
       imgUrl: projImg3,
     },
     {
