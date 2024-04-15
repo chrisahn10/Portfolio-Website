@@ -57,7 +57,7 @@ export const Banner = () => {
               <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
                 <span className="tagline">Welcome to my Portfolio</span>
                 <h1>{`Hi! I'm Chris`} <span className="txt-rotate" dataPeriod="1000" data-rotate='[ "Front-End", "Back-End", "Full-Stack Web Developer" ]'><span className="wrap">{text}</span></span></h1>
-                  <p>I'm a recent grad from UNC Chapel Hill with a BA in Economics and their Fullstack Coding Bootcamp. A passionate Fullstack developer based in Cary, North Carolina. </p>
+                  <p>From UNC Chapel Hill with a BA in Economics and a certification from their Fullstack Coding Bootcamp. A passionate Fullstack developer based in Cary, North Carolina. </p>
                   <button onClick={() => console.log('connect')}>Let’s Connect <ArrowRightCircle size={25} /></button>
               </div>}
             </TrackVisibility>
